@@ -9,15 +9,19 @@ nav{
       justify-content: center;
       
 }
-ul{
+nav ul{
       display: inline;
       list-style: none;
 }
-ul li{
+nav ul li{
       display: inline-block;
       padding: 25px;
       font-size: 20px;
 
+}
+nav ul li a{
+      color: orange;
+     bottom: 20px;
 }
 .content{
       position: absolute;
