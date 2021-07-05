@@ -21,12 +21,12 @@ nav ul li{
 }
 nav ul li a{
       color: orange;
-     bottom: 20px;
+     
 }
 .content{
       position: absolute;
       top: 27vh;
-      left: 10%;
+      left: 5%;
       width: 40%;
 }
 .content h1{
@@ -53,7 +53,7 @@ img{
       position: absolute;
       bottom: 0;
       right: 0;
-      width: 40%;
+      width: 45%;
       
 
 }
